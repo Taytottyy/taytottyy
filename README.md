@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ANYTHING - as far as my curiosity takes me. 
 - 📫 How to reach me: The best way to reach me is through email (ry2543@columbia.edu) 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I own a eggtarts shop!
+- ⚡ Fun fact: I own an eggtarts shop!
 -->
