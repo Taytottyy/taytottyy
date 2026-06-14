@@ -5,4 +5,4 @@
 - 👯 Open to collaborating on **anything** — the weirder, the better
 - 📫 Reach me at **ry2543@columbia.edu**
 - 😄 Pronouns: **she/her**
-- ⚡ Fun fact: I own an **egg tarts shop!** 🥮
+- ⚡ Fun fact: I'm a 4x hackathon winner! 
