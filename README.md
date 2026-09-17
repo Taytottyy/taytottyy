@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Taytottyy/Taytottyy/main/assets/taylor.svg" width="440" alt="Taylor" />
+  <img src="https://raw.githubusercontent.com/Taytottyy/Taytottyy/main/taylor.svg" width="440" alt="Taylor" />
 </p>
 
 ## Hi there, I'm Taylor! I'm majoring in cs at Columbia.
