@@ -1,8 +1,12 @@
-## Hi there 👋 I'm Taylor
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Taytottyy/Taytottyy/main/assets/taylor.svg" width="440" alt="Taylor" />
+</p>
 
-- 🔭 Currently building an **agentic due diligence system for VCs**
-- 🌱 Learning deep agents and building systems wherever curiosity takes me
-- 👯 Open to collaborating on **anything** — the weirder, the better
-- 📫 Reach me at **ry2543@columbia.edu**
-- 😄 Pronouns: **she/her**
-- ⚡ Fun fact: I'm a 4x hackathon winner! 
+## Hi there I'm Taylor
+
+- I love **building tools** — and I'm drawn to **deeptech, robotics, and healthcare**
+- Learning deep agents and building systems wherever curiosity takes me
+- Open to collaborating on research projects
+- 𝕏 Say hi on X: [@Taylornotylerr](https://x.com/Taylornotylerr)
+- Reach me at **ry2543@columbia.edu**
+- Fun fact: I'm a 4x hackathon winner!
